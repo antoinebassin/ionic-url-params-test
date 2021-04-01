@@ -1,0 +1,7 @@
+{
+  "name": "url-params",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
